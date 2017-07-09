@@ -39,7 +39,7 @@ import java.util.LinkedList;
  * @author mitchellsundt@gmail.com
  * @author Carl Hartung (carlhartung@gmail.com)
  */
-public final class ActivityLogger {
+public class ActivityLogger {
 
     private static class DatabaseHelper extends ODKSQLiteOpenHelper {
 
